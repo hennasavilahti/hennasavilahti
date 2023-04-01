@@ -2,7 +2,10 @@
 <h2 align="center">A determined software engineering student from Tampere, Finland</h3>
 <br/>
 <p align="center">
-🌱 I’m currently learning Full Stack Web Development using React and Node.js
+🔭 I’m currently working on <b>building a portfolio website</b>
+</p>
+<p align="center">
+🌱 I’m currently learning <b>Full Stack Web Development using React and Node.js</b>
 </p>
 <br/>
 

@@ -69,4 +69,4 @@
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hennasavilahti&show_icons=true&theme=dracula&locale=en&count_private=true" alt="hennasavilahti" /></p>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hennasavilahti&label=Profile%20views&color=0e75b6&style=flat" alt="hennasavilahti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hennasavilahti&label=Profile%20views&color=ff9dce&style=flat" alt="hennasavilahti" /> </p>

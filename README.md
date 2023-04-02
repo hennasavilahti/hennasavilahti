@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Henna 👋</h1>
+<h1 align="center">Hi, I am Henna  <img src="./wave.gif" height="35"/></h1>
 <h2 align="center">A determined software engineering student from Tampere, Finland</h3>
 <br/>
 <p align="center">
